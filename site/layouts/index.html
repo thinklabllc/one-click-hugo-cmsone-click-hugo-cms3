@@ -1,13 +1,36 @@
+{{ /* old index.html */}}
+
+{{ /* define "main" */ }}
+
+{{ /* partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) */ }}
+
+{{ /* partial "short-text" .Params.blurb */ }}
+
+{{ /* partial "2-up" .Params */ }}
+
+{{ /* partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") */ }}
+
+{{ /* partial "blog" . */ }}
+
+{{ /* end */ }}
+
+{{ /* end old index.html */ }}
+
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "hero.html" . }}
 
-{{ partial "short-text" .Params.blurb}}
+<div class="container">
+  <div class="row animate">
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+    {{ range $paginator.Pages }}
+      {{ partial "article-content.html" . }}
+    {{ end }}
+  </div>
+</div>
 
-{{ partial "2-up" .Params }}
+{{ partial "pagination.html" . }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
+{{ partial "section-tags.html" . }}
 
 {{ end }}
