@@ -2,31 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://hungerunited.com/</loc>
     <lastmod>2023-11-19T21:48:37+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://hungerunited.com/post/</loc>
     <lastmod>2023-11-19T21:48:37+00:00</lastmod>
   </url><url>
-    <loc>/post/this-is-a-test-post-from-sean/</loc>
+    <loc>https://hungerunited.com/post/this-is-a-test-post-from-sean/</loc>
     <lastmod>2023-11-19T21:48:37+00:00</lastmod>
   </url><url>
-    <loc>/post/test-test/</loc>
+    <loc>https://hungerunited.com/post/test-test/</loc>
     <lastmod>2023-11-17T11:56:19+00:00</lastmod>
   </url><url>
-    <loc>/post/brewing-chemex/</loc>
+    <loc>https://hungerunited.com/posts/comal_crackers/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hungerunited.com/posts/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hungerunited.com/posts/sourdough_starters_and_how_to_control_sourness/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hungerunited.com/posts/homemade_oreos/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hungerunited.com/posts/fermented_carrots_andor_beets/</loc>
+    <lastmod>2022-04-02T23:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://hungerunited.com/post/brewing-chemex/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url><url>
-    <loc>/post/jamaica-blue/</loc>
+    <loc>https://hungerunited.com/post/jamaica-blue/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url><url>
-    <loc>/post/making-sense/</loc>
+    <loc>https://hungerunited.com/post/making-sense/</loc>
     <lastmod>2016-12-17T15:04:10+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://hungerunited.com/about/</loc>
   </url><url>
-    <loc>/products/</loc>
+    <loc>https://hungerunited.com/categories/</loc>
   </url><url>
-    <loc>/values/</loc>
+    <loc>https://hungerunited.com/contact/</loc>
+  </url><url>
+    <loc>https://hungerunited.com/contact/</loc>
+  </url><url>
+    <loc>https://hungerunited.com/elements/</loc>
+  </url><url>
+    <loc>https://hungerunited.com/products/</loc>
+  </url><url>
+    <loc>https://hungerunited.com/tags/</loc>
+  </url><url>
+    <loc>https://hungerunited.com/values/</loc>
   </url>
 </urlset>

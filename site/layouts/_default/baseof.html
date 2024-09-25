@@ -1,17 +1,24 @@
-<!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
-  {{ partial "head" . }}
-  <body class="sans-serif">
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+{{ partial "head.html" . }}
 
+<body>
+
+  {{ template "_internal/google_analytics.html" . }}
+
+  {{ partial "header.html" . }}
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
     {{ block "main" . }}{{ end }}
+  </main>
+  <!-- end content -->
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+  {{ partial "footer.html" . }}
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
-  </body>
+  {{ partial "javascripts.html" . }}
+
+</body>
+
 </html>

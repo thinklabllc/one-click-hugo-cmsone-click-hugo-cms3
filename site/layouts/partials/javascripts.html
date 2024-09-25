@@ -1,0 +1,15 @@
+{{- /* $script := resources.Get "js/scripts.js" */ -}}
+{{- /* $commonJs := resources.Get "js/common.js" */ -}}
+
+{{ $script := .Site.Data.webpack.main }}
+{{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+{{ end }}
+
+{{ if .Site.IsServer }}
+<script src="{{- /* $script.Permalink */ -}}"></script>
+<script src="{{- /* $commonJs.Permalink */ -}}"></script>
+{{ else }}
+<script src="{{- /* ($script | minify | fingerprint).RelPermalink */ -}}"></script>
+<script src="{{- /* ($commonJs | minify | fingerprint).RelPermalink */ -}}"></script>
+{{ end }}

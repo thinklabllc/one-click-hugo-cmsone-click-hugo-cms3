@@ -1,16 +1,28 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+<div class="archive">
 
-<div class="mw7 center">
-  <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <li class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </li>
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="archive__box">
+          <span class="archive__counter">{{ len .Pages }} {{ if lt (len .Pages) 2 }}Post{{ else }}Posts{{ end }}</span>
+          <h1 class="archive__title">{{ humanize .Title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container">
+    <div class="row animate">
+  
+      {{ range .Data.Pages }}
+        {{ partial "article-content.html" . }}
       {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
+  
+    </div>
+  </div>
+
 </div>
 
-{{end}}
+{{ end }}
