@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Video Embed", name: "video_embed", widget: "string"}
+      - {label: "Video Embed", name: "video_embed", widget: "string", required: false}
       - {label: "tags", name: "tag", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
