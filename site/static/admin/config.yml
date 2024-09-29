@@ -5,16 +5,29 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
+---
+layout: post
+title: Comal Crackers
+description: 
+date:   2023-09-15 00:00:00 +0000
+image:  'https://i.imgur.com/eOMz8CY.jpeg'
+video_embed: ''
+tags:   []
+---
+
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Video Embed", name: "video_embed", widget: "string"}
+      - {label: "tags", name: "tag", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
