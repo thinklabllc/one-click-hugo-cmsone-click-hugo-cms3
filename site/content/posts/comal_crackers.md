@@ -2,7 +2,7 @@
 layout: post
 title: Comal Crackers
 description: 
-date:   2023-09-15 00:00:00 +0000
+date:   2023-09-15T00:00:00.000Z
 image:  'https://i.imgur.com/eOMz8CY.jpeg'
 video_embed: ''
 tags:   []
