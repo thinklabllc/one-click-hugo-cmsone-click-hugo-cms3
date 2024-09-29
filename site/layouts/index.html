@@ -22,7 +22,7 @@
 
 <div class="container">
   <div class="row animate">
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
     {{ range $paginator.Pages }}
       {{ partial "article-content.html" . }}
     {{ end }}
