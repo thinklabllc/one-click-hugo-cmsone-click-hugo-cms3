@@ -96,7 +96,7 @@ paginate = 9
   [params.hero]
     hero__title = "Hi, Welcome to the Hunger United"
     hero__description = "Food distribution, recipes, consumer packaged goods, technology, business, free love and inspiration."
-    hero__image = "https://via.placeholder.com/1200x800"
+    hero__image = "https://hungerunited.s3.us-east-2.amazonaws.com/blog/pexels-photo-3266773.jpeg"
 
   # Newsletter
   [params.mailchimp]
