@@ -13,3 +13,13 @@
 <script src="{{- /* ($script | minify | fingerprint).RelPermalink */ -}}"></script>
 <script src="{{- /* ($commonJs | minify | fingerprint).RelPermalink */ -}}"></script>
 {{ end }}
+
+{{ $script := .Site.Data.webpack.common }}
+{{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+{{ end }}
+
+{{ $script := .Site.Data.webpack.scripts }}
+{{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+{{ end }}
