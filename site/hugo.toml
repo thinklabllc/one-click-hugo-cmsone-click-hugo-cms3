@@ -43,7 +43,7 @@ paginate = 9
   [[menu.main]]
     identifier = "login"
     name = "Login"
-    url = "http://ec2-18-216-84-227.us-east-2.compute.amazonaws.com:82/mms/index.php/admin"
+    url = "http://mms.xesty.io/mms/index.php/admin/auth/login"
     weight = 6
 
 [params]
