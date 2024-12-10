@@ -4,7 +4,7 @@ title: Why Buy Organic?
 description: "What is organic food, why buy them, and how to include them in
   fermented foods. "
 date: 2024-12-06T23:47:57.090Z
-image: img/1140-organic-foods-quiz.jpg
+image: https://imagedelivery.net/rPE2h8Jsr68E79YvRd5HWQ/a8f3db68-0b71-445f-6983-84cca332e700/public
 tag:
   - organic
 ---
