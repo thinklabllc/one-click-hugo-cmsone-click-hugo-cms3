@@ -17,7 +17,9 @@
     <div class="row animate">
   
       {{ range .Data.Pages }}
-        {{ partial "article-content.html" . }}
+        {{ if or (ne .Title ("Fermented Carrots and/or Beets") ("Lucy Test Post") ("Comal Crackers") ("Why Buy Organic?") ) }} 
+          {{ partial "article-content.html" . }}
+        {{ end }}
       {{ end }}
   
     </div>
