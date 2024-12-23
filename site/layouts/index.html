@@ -24,7 +24,9 @@
   <div class="row animate">
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
     {{ range $paginator.Pages }}
-      {{ partial "article-content.html" . }}
+      {{ if or (ne .Title ("Fermented Carrots and/or Beets") ("Lucy Test Post") ("Comal Crackers") ("Why Buy Organic?") ) }} 
+        {{ partial "article-content.html" . }}
+      {{ end }}
     {{ end }}
   </div>
 </div>
