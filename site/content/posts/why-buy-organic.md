@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Buy Organic?
+author: Lucy BeU Love
 description: "What is organic food, why buy them, and how to include them in
   fermented foods. "
 date: 2024-12-06T23:47:57.090Z
