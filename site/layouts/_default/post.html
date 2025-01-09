@@ -43,7 +43,7 @@
             </a>
 
             <div class="post__meta-bottom">
-              <a class="post__author" href="/about/">{{ .Params.author.author__name }}</a>
+              <a class="post__author" href="/about/">{{- /* .Params.author.author__name */ -}}</a>
               <time class="post__date" datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan 2006" }}</time>
             </div>
           </div>
