@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Fermented Carrots and/or Beets
+author: Lucy BeU Love
 description: Fermented vegetable of your choice...
 date:   2022-04-02 23:30:00 +0600
 image:  'https://pbs.twimg.com/media/FPOw6yuUYAwFOLk?format=jpg&name=large'
