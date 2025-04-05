@@ -8,4 +8,5 @@ image: img/mark.png
 ---
 * Supply Chain
 * EDI
+* [GTIN barcodes](https://www.gs1.org/standards/id-keys/gtin)
 * Consignment
