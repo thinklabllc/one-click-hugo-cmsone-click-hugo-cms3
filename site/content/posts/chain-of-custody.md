@@ -9,7 +9,7 @@ image: https://hungerunited.s3.us-east-2.amazonaws.com/blog/agricultor_50207498.
 **Chain of Custody** \
 ISO 22095:2020(en) Chain of custody <https://www.iso.org/obp/ui/#iso:std:iso:22095:ed-1:v1:en>  
 
-[](http://services.bis.gov.in/tmp/cmt_1719294722_667a5b02d7bac.pdf)[](http://services.bis.gov.in/tmp/cmt_1719294722_667a5b02d7bac.pdf)[https://hungerunited.s3.us-east-2.amazonaws.com/pdf/30e0db470b123e02.pdf](http://services.bis.gov.in/tmp/cmt_1719294722_667a5b02d7bac.pdf)
+[](http://services.bis.gov.in/tmp/cmt_1719294722_667a5b02d7bac.pdf)[](http://services.bis.gov.in/tmp/cmt_1719294722_667a5b02d7bac.pdf)<https://hungerunited.s3.us-east-2.amazonaws.com/pdf/30e0db470b123e02.pdf>
 
 Food and Agriculture Organization of the United Nations: Food Traceability Guidance <https://openknowledge.fao.org/server/api/core/bitstreams/73065421-9aae-440a-8362-5ea847deb2eb/content>[](https://www.iso.org/obp/ui/#iso:std:iso:22095:ed-1:v1:en)  
 
