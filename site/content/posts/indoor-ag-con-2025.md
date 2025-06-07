@@ -228,20 +228,4 @@ I recently attended [Indoor Ag Con 2025](https://indoor.ag/) and took a lot of p
 
 ![](https://hungerunited.s3.us-east-2.amazonaws.com/blog/indooragcon2025/IMG_6126.png)
 
-<div style="position: relative; padding-top: 75%;">
-
-  <iframe
-
-\    src="https://customer-q7hurdpkvw4t7ayw.cloudflarestream.com/232f4ac041afb58e3c1c15949ace196d/iframe?poster=https%3A%2F%2Fcustomer-q7hurdpkvw4t7ayw.cloudflarestream.com%2F232f4ac041afb58e3c1c15949ace196d%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600"
-
-\    loading="lazy"
-
-\    style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-
-\    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
-
-\    allowfullscreen="true"
-
-\></iframe>
-
-</div>
+<div style="position: relative; padding-top: 75%;"> <iframe src="https://customer-q7hurdpkvw4t7ayw.cloudflarestream.com/232f4ac041afb58e3c1c15949ace196d/iframe?poster=https%3A%2F%2Fcustomer-q7hurdpkvw4t7ayw.cloudflarestream.com%2F232f4ac041afb58e3c1c15949ace196d%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" loading="lazy" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" ></iframe> </div>
