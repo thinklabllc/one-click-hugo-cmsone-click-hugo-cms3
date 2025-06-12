@@ -100,7 +100,7 @@ paginate = 9
 
   # Newsletter
   [params.mailchimp]
-    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__identifier = "xesty.us10.list-manage.com/subscribe/post?u=b55fca046fb01e248e03946fc&amp;id=cd429848a9&amp;f_id=006f8ae3f0" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Subscribe here"
     mailchimp__button__text = "Get a new tip"
 
