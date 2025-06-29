@@ -46,6 +46,19 @@ paginate = 9
     url = "http://mms.xesty.io/mms/index.php/admin/auth/login"
     weight = 6
 
+[menu]
+  [[menu.main2]]
+    identifier = "ghostcafe"
+    name = "Ghostcafe"
+    url = "https://ghostcafe.xyz/"
+    weight = 1
+
+  [[menu.main2]]
+    identifier = "whitepaper"
+    name = "Whitepaper"
+    url = "https://www.dropbox.com/scl/fi/xd27iipycqhrxclnbje0s/2ndsatoshi.pdf?rlkey=4lfwipre4i27806jbd7reykjr&e=1&st=t0bka5lx&dl=0"
+    weight = 2
+
 [params]
   logo = "" # You can add own logo. For example "/images/logo.png".
   description = "Menca personal blogging theme for HUGO"

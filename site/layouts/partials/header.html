@@ -26,6 +26,11 @@
                 <a href="{{ .URL }}" class="nav__link">{{ .Name }}</a>
               </li>
               {{ end }}
+              {{ range.Site.Menus.main2 }}
+              <li class="nav__item">
+                <a href="{{ .URL }}" class="nav__link">{{ .Name }}</a>
+              </li>
+              {{ end }}
               <li class="nav__item nav__item-icon">
                 <div class="toggle-theme">
                   <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
