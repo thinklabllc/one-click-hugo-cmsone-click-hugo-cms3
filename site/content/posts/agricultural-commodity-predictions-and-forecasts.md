@@ -16,14 +16,11 @@ tag:
 
 [Cocoa](https://hungerunited.com/posts/agricultural-commodity-predictions-and-forecasts/#cocoa)
 
-### \
-Sugar
+### Sugar
 
 Global Sugar Trends 2026
 
 Types of Sugar
-
-
 
 https://www.beroeinc.com/resource-centre/insights/bittersweet-realities-navigating-eu-sugar-supply-tightening-and-strategic/
 
@@ -175,8 +172,6 @@ apps.fas.usda.gov
 
 Price Predictions for 2026
 
-
-
 https://www.beroeinc.com/resource-centre/insights/bittersweet-realities-navigating-eu-sugar-supply-tightening-and-strategic/
 
 Commodity price forecasts suggest continued pressure on sugar in 2026. Analysts (USDA, ISO, Czarnikow, ING) point to a growing global supply surplus in 2025/26 – on the order of 6–8 MMT above demand
@@ -249,145 +244,78 @@ beroeinc.com
 
 Citations
 
-
-
 Sugar Glossary | Farm Service Agency
-
-
 
 https://www.fsa.usda.gov/programs-and-services/economic-and-policy-analysis/dairy-and-sweeteners-analysis/sugar-glossary
 
-
-
 Types - White Sugar, Brown Sugar, Liquid Sugar | Sugar.org
-
-
 
 https://www.sugar.org/sugar/types/
 
-
-
 Types - White Sugar, Brown Sugar, Liquid Sugar | Sugar.org
-
-
 
 https://www.sugar.org/sugar/types/
 
-
-
 Types - White Sugar, Brown Sugar, Liquid Sugar | Sugar.org
-
-
 
 https://www.sugar.org/sugar/types/
 
 Types of Sugar - The Canadian Sugar Institute
 
-
-
 https://sugar.ca/sugar-basics/types-of-sugar
 
-
-
 https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar+Annual_Brasilia_Brazil_BR2025-0011.pdf
 
-
-
 https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar+Annual_Brasilia_Brazil_BR2025-0011.pdf
-
-
 
 Sugar Prices See Continued Support from Safras Forecasts for 2026/27 | Nasdaq
 
-
-
 https://www.nasdaq.com/articles/sugar-prices-see-continued-support-safras-forecasts-2026-27
-
-
 
 Sugar surplus to keep prices under pressure | articles | ING Think
 
-
-
 https://think.ing.com/articles/sugar-surplus-to-keep-prices-under-pressure/
 
-
+https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Annual_New%20Delhi_India_IN2025-0027.pdf
 
 https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Annual_New%20Delhi_India_IN2025-0027.pdf
 
-
-
 https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Annual_New%20Delhi_India_IN2025-0027.pdf
-
-
-
-https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Annual_New%20Delhi_India_IN2025-0027.pdf
-
-
 
 https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Annual_Bangkok_Thailand_TH2025-0015.pdf
 
-
-
 European sugar producers cut beet area in emergency move
-
-
 
 https://vespertool.com/news/european-sugar-producers-cut-beet-area-in-emergency-move/
 
-
-
 India, Brazil to Sweeten Global Sugar Output in 2025-26 - Sugar Asia Magazine
-
-
 
 https://sugar-asia.com/india-brazil-to-sweeten-global-sugar-output-in-2025-26/
 
-
-
 https://apps.fas.usda.gov/psdonline/circulars/sugar.pdf
-
-
 
 Sugar Prices See Continued Support from Safras Forecasts for 2026/27 | Nasdaq
 
-
-
 https://www.nasdaq.com/articles/sugar-prices-see-continued-support-safras-forecasts-2026-27
 
-
-
 Sugar surplus to keep prices under pressure | articles | ING Think
-
-
 
 https://think.ing.com/articles/sugar-surplus-to-keep-prices-under-pressure/
 
-
-
 Sugar surplus to keep prices under pressure | articles | ING Think
 
-
-
 https://think.ing.com/articles/sugar-surplus-to-keep-prices-under-pressure/
-
-
 
 EU Sugar Supply Crisis & Strategic Procurement
 
-
-
 https://www.beroeinc.com/resource-centre/insights/bittersweet-realities-navigating-eu-sugar-supply-tightening-and-strategic/
 
-
-
 Title
-
-
 
 https://www.edfmansugar.com/wp-content/uploads/2025/10/Monthly-Sugar-Note-Oct-2025_.pdf
 
 ### \
+
 \
 \
 \
@@ -674,305 +602,153 @@ fao.org
 
 Citations
 
-
-
 Wheat - Wheat Sector at a Glance | Economic Research Service
-
-
 
 http://www.ers.usda.gov/topics/crops/wheat/wheat-sector-at-a-glance
 
-
-
 Wheat Classes - U.S. Wheat Associates
-
-
 
 https://uswheat.org/working-with-buyers/wheat-classes/
 
-
-
 Wheat Classes - U.S. Wheat Associates
-
-
 
 https://uswheat.org/working-with-buyers/wheat-classes/
 
-
-
 Wheat Classes - U.S. Wheat Associates
 
-
-
 https://uswheat.org/working-with-buyers/wheat-classes/
-
-
 
 Wheat - Wheat Sector at a Glance | Economic Research Service
 
-
-
 http://www.ers.usda.gov/topics/crops/wheat/wheat-sector-at-a-glance
 
-
-
 Wheat Classes - U.S. Wheat Associates
-
-
 
 https://uswheat.org/working-with-buyers/wheat-classes/
 
-
-
 Wheat Classes - U.S. Wheat Associates
 
-
-
 https://uswheat.org/working-with-buyers/wheat-classes/
-
-
 
 Strong supply to keep wheat prices capped | articles | ING Think
 
-
-
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
-
-
 
 https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain%20and%20Feed%20Update_Beijing_China%20-%20People%27s%20Republic%20of_CH2025-0194
 
-
-
 China maintains grain import quotas in 2026 at 2025 levels
-
-
 
 https://ukragroconsult.com/en/news/china-maintains-grain-import-quotas-in-2026-at-2025-levels/
 
-
-
 India set for record wheat planting as soil moisture and prices rise | Reuters
 
-
-
 https://www.reuters.com/world/china/india-set-record-wheat-planting-soil-moisture-prices-rise-2025-11-18/
-
-
 
 Strong supply to keep wheat prices capped | articles | ING Think
 
-
-
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
 
-
-
 India set for record wheat planting as soil moisture and prices rise | Reuters
-
-
 
 https://www.reuters.com/world/china/india-set-record-wheat-planting-soil-moisture-prices-rise-2025-11-18/
 
-
-
 India set for record wheat planting as soil moisture and prices rise | Reuters
-
-
 
 https://www.reuters.com/world/china/india-set-record-wheat-planting-soil-moisture-prices-rise-2025-11-18/
 
-
-
 India set for record wheat planting as soil moisture and prices rise | Reuters
 
-
-
 https://www.reuters.com/world/china/india-set-record-wheat-planting-soil-moisture-prices-rise-2025-11-18/
-
-
 
 Strong supply to keep wheat prices capped | articles | ING Think
 
-
-
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
-
-
 
 COMMODITIES 2026: Russian wheat output expected to fall as farmers pivot to oilseeds | S&P Global
 
-
-
 https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/121525-commodities-2026-russian-wheat-output-expected-to-fall-as-farmers-pivot-to-oilseeds
 
-
-
 Strong supply to keep wheat prices capped | articles | ING Think
-
-
 
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
 
-
-
 Strong supply to keep wheat prices capped | articles | ING Think
 
-
-
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
-
-
 
 COMMODITIES 2026: Russian wheat output expected to fall as farmers pivot to oilseeds | S&P Global
 
-
-
 https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/121525-commodities-2026-russian-wheat-output-expected-to-fall-as-farmers-pivot-to-oilseeds
 
-
-
 Ukraine & Romania Wheat Crop Forecast | Argus Media
-
-
 
 https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/ukraine-romania-wheat-crop-forecast
 
-
-
 Ukraine & Romania Wheat Crop Forecast | Argus Media
-
-
 
 https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/ukraine-romania-wheat-crop-forecast
 
-
-
 Ukraine & Romania Wheat Crop Forecast | Argus Media
-
-
 
 https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/ukraine-romania-wheat-crop-forecast
 
-
-
 Ukraine & Romania Wheat Crop Forecast | Argus Media
 
-
-
 https://www.argusmedia.com/en/news-and-insights/energy-and-commodity-podcasts/ukraine-romania-wheat-crop-forecast
-
-
 
 Global Wheat Demand Supports Improved Price Outlook 2026 - RFD-TV
 
-
-
 https://www.rfdtv.com/global-wheat-demand-supports-improved-price-outlook-2026
-
-
 
 Strong supply to keep wheat prices capped | articles | ING Think
 
-
-
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
-
-
 
 Global Wheat Demand Supports Improved Price Outlook 2026 - RFD-TV
 
-
-
 https://www.rfdtv.com/global-wheat-demand-supports-improved-price-outlook-2026
 
-
-
 2026 Farm Input Outlook
-
-
 
 https://www.farmersnational.com/energy/news/farm-management/2026-farm-input-outlook
 
-
-
 2026 Farm Input Outlook
 
-
-
 https://www.farmersnational.com/energy/news/farm-management/2026-farm-input-outlook
-
-
-
-
 
 https://www.usda.gov/oce/commodity/wasde/wasde1225.pdf
-
-
 
 COMMODITIES 2026: Australia to reap larger wheat crop, export restrictions to counter supply pressure | S&P Global
 
-
-
 https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/121525-commodities-2026-australia-to-reap-larger-wheat-crop-export-restrictions-to-counter-supply-pressure
-
-
 
 Argentina wheat yields rise, low protein confirmed | Latest Market News
 
-
-
 https://www.argusmedia.com/en/news-and-insights/latest-market-news/2768365-argentina-wheat-yields-rise-low-protein-confirmed
-
-
-
-
 
 https://www.usda.gov/oce/commodity/wasde/wasde1225.pdf
 
-
-
 Strong supply to keep wheat prices capped | articles | ING Think
-
-
 
 https://think.ing.com/articles/strong-supply-to-keep-wheat-prices-capped/
 
 FAO Food Outlook points to broad-based increase in global food commodity production
 
-
-
 https://www.fao.org/newsroom/detail/fao-food-outlook-points-to-broad-based-increase-in-global-food-commodity-production/en
-
-
 
 Wheat Price Forecast & Prediction for 2025, 2026, and 2027–2030
 
-
-
 https://www.litefinance.org/blog/analysts-opinions/wheat-price-forecast-and-prediction/
-
-
 
 Grain Marketing Lessons From 2025 to Guide Your 2026 Strategy
 
-
-
 https://www.agriculture.com/grain-marketing-lessons-from-2025-to-guide-your-2026-strategy-11855798
 
-
-
 Global Wheat Demand Supports Improved Price Outlook 2026 - RFD-TV
-
-
 
 https://www.rfdtv.com/global-wheat-demand-supports-improved-price-outlook-2026
 
-
-
 Global Wheat Demand Supports Improved Price Outlook 2026 - RFD-TV
-
-
 
 https://www.rfdtv.com/global-wheat-demand-supports-improved-price-outlook-2026
 
@@ -1016,8 +792,6 @@ blommer.com
 , with the rest yielding liquor and powder. These derivatives trade globally (e.g. on ICE and regional markets) and are critical to chocolate and confectionery supply chains.
 
 Cultivation Forecast
-
-
 
 https://devongeography.wordpress.com/2024/04/29/global-cocoa-production/
 
@@ -1149,83 +923,43 @@ farmforce.com
 
 Citations
 
-
-
 Blommer-chocolate-process-diagrams-020117
-
-
 
 https://www.blommer.com/_documents/Blommer-chocolate-process-diagrams-020117.pdf
 
-
-
 Blommer-chocolate-process-diagrams-020117
-
-
 
 https://www.blommer.com/_documents/Blommer-chocolate-process-diagrams-020117.pdf
 
-
-
 Blommer-chocolate-process-diagrams-020117
 
-
-
 https://www.blommer.com/_documents/Blommer-chocolate-process-diagrams-020117.pdf
-
-
 
 Global Cocoa Production | Devon Geography
 
-
-
 https://devongeography.wordpress.com/2024/04/29/global-cocoa-production/
 
-
-
 https://www.icco.org/wp-content/uploads/Production_QBCS-LI-No.-1.pdf
 
-
-
 https://www.icco.org/wp-content/uploads/Production_QBCS-LI-No.-1.pdf
-
-
 
 Indonesia expects normal wet season in 2026, weather agency says | Reuters
 
-
-
 https://www.reuters.com/business/environment/indonesia-expects-normal-wet-season-2026-weather-agency-says-2025-12-23/
-
-
 
 https://www.icco.org/wp-content/uploads/Production_QBCS-LI-No.-1.pdf
 
-
-
 2025-2026 Cocoa Season Outlook: Challenges and Sustainability in Focus
-
-
 
 https://farmforce.com/articles/2025-2026-cocoa-season-outlook-challenges-and-sustainability-in-focus/
 
-
-
 2025-2026 Cocoa Season Outlook: Challenges and Sustainability in Focus
-
-
 
 https://farmforce.com/articles/2025-2026-cocoa-season-outlook-challenges-and-sustainability-in-focus/
 
-
-
 2025-2026 Cocoa Season Outlook: Challenges and Sustainability in Focus
 
-
-
 https://farmforce.com/articles/2025-2026-cocoa-season-outlook-challenges-and-sustainability-in-focus/
-
-
 
 https://www.icco.org/wp-content/uploads/Production_QBCS-LI-No.-1.pdf
 
